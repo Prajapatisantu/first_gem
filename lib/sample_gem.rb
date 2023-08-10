@@ -9,5 +9,9 @@ module SampleGem
     def welcome
       puts "hello rails world"
     end
+
+    def about_update
+      puts "We have methos that will list all the new updates."
+    end
   end
 end
